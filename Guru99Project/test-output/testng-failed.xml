@@ -6,7 +6,8 @@
       <class name="org.test.pages.TestOne">
         <methods>
           <include name="start"/>
-          <include name="ExampleTwo"/>
+          <include name="end"/>
+          <include name="ExampleOne" invocation-numbers="1"/>
         </methods>
       </class> <!-- org.test.pages.TestOne -->
     </classes>
