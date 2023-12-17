@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-17T00:49:08 IST" name="Default suite" finished-at="2023-12-17T00:49:40 IST" duration-ms="32512">
+  <suite started-at="2023-12-17T13:15:08 IST" name="Default suite" finished-at="2023-12-17T13:15:19 IST" duration-ms="11343">
     <groups>
     </groups>
-    <test started-at="2023-12-17T00:49:08 IST" name="Default test" finished-at="2023-12-17T00:49:40 IST" duration-ms="32512">
+    <test started-at="2023-12-17T13:15:08 IST" name="Default test" finished-at="2023-12-17T13:15:19 IST" duration-ms="11343">
       <class name="org.test.pages.TestOne">
-        <test-method is-config="true" signature="start()[pri:0, instance:org.test.pages.TestOne@3590fc5b]" started-at="2023-12-17T00:49:08 IST" name="start" finished-at="2023-12-17T00:49:33 IST" duration-ms="25005" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:org.test.pages.TestOne@443118b0]" started-at="2023-12-17T13:15:08 IST" name="start" finished-at="2023-12-17T13:15:16 IST" duration-ms="8067" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method signature="ExampleOne()[pri:0, instance:org.test.pages.TestOne@3590fc5b]" started-at="2023-12-17T00:49:33 IST" name="ExampleOne" finished-at="2023-12-17T00:49:40 IST" duration-ms="7295" status="PASS">
+        <test-method signature="ExampleOne()[pri:0, instance:org.test.pages.TestOne@443118b0]" started-at="2023-12-17T13:15:16 IST" name="ExampleOne" finished-at="2023-12-17T13:15:18 IST" duration-ms="1685" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ExampleOne -->
-        <test-method is-config="true" signature="end()[pri:0, instance:org.test.pages.TestOne@3590fc5b]" started-at="2023-12-17T00:49:40 IST" name="end" finished-at="2023-12-17T00:49:40 IST" duration-ms="132" status="PASS">
+        <test-method is-config="true" signature="end()[pri:0, instance:org.test.pages.TestOne@443118b0]" started-at="2023-12-17T13:15:18 IST" name="end" finished-at="2023-12-17T13:15:19 IST" duration-ms="1512" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->

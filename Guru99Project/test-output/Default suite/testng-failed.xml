@@ -5,9 +5,8 @@
     <classes>
       <class name="org.test.pages.TestOne">
         <methods>
-          <include name="end"/>
           <include name="start"/>
-          <include name="ExampleOne"/>
+          <include name="ExampleTwo"/>
         </methods>
       </class> <!-- org.test.pages.TestOne -->
     </classes>
